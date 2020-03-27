@@ -56,3 +56,7 @@ It should also generate `t.dot` file with the diagram of the solution. To visual
 ```sh
 $ dot -Tpdf t.dot >t.pdf
 ```
+
+The resulting picture looks like this:
+
+![t.pdf](t.pdf)
