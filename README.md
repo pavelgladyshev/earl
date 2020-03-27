@@ -48,10 +48,13 @@ T
 T
 * 
 ```
-Please refer to Section 8.3.1 of my (thesis)[thesis.pdf] to make sense of the printed results.
+
+Please refer to Section 8.3.1 of my [PhD dissertation](thesis.pdf) to make sense of the printed results.
 
 It should also generate `t.dot` file with the diagram of the solution. To visualise it, you could use `dot` utility from GraphViz package to generate a PDF:
 
 ```sh
 $ dot -Tpdf t.dot >t.pdf
 ```
+
+![t.pdf](t.pdf)
