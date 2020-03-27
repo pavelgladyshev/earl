@@ -1,12 +1,12 @@
 Event Analysis and Reconstruction in Lisp (EARL)
 ================================================
 
-This frepository contains implementation of digital event reconstruction algorithms that I developed for my PhD dissertation in 2004. 
+This repository contains implementation of digital event reconstruction algorithms that I developed in my PhD dissertation in 2004. 
 
 Dependencies
 ------------
 
-This software depends on the following software packages:
+This software requires the following software packages:
 
  * [Steel Bank Common Lisp](http://www.sbcl.org) to run the sofwtare, and
  * [GraphViz](https://www.graphviz.org) to view solution diagrams produced by it.
