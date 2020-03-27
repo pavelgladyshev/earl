@@ -24,8 +24,8 @@ Running the software
 
 4. Start Steel Bank Common Lisp
 
-```bash
-$sbcl
+```sh
+$ sbcl
 This is SBCL 2.0.2, an implementation of ANSI Common Lisp.
 More information about SBCL is available at <http://www.sbcl.org/>.
 
@@ -38,7 +38,7 @@ distribution for more information.
 
 5. Load and run one of the examples (either *acme.lisp* or *slack.lisp*)
 
-```bash
+```lisp
 * (load "acme")
 
 "Is the meaning of es_ACME empty ?" 
@@ -52,6 +52,6 @@ Please refer to Section 8.3.1 of my (thesis)[thesis.pdf] to make sense of the pr
 
 It should also generate `t.dot` file with the diagram of the solution. To visualise it, you could use `dot` utility from GraphViz package to generate a PDF:
 
-```bash
+```sh
 $dot -Tpdf t.dot >t.pdf
 ```
