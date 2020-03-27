@@ -57,6 +57,6 @@ It should also generate `t.dot` file with the diagram of the solution. To visual
 $ dot -Tpdf t.dot >t.pdf
 ```
 
-The resulting picture looks like this:
+The resulting picture looks a bit like this:
 
 ![t.png](t.png)
