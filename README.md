@@ -16,17 +16,17 @@ The easiest way to install both packages is via package managers  (`apt` on Ubun
 Running the software
 --------------------
 
-1. Read relevant parts of my [PhD dissertation](thesis.pdf) (chapters 6 to 8).
+1. Read relevant parts of [thesis.pdf](thesis.pdf) (chapters 6 to 8),
 
-2. Clone or download this repository. 
+2. clone or download this repository,
 
-3. Start terminal / command line window and navigate to the repository folder.
+3. start terminal / command line window and navigate to the repository folder
 
 ```sh
 $ cd /path/to/earl
 ```
 
-4. Start Steel Bank Common Lisp
+4. start Steel Bank Common Lisp
 
 ```sh
 $ sbcl
@@ -53,7 +53,7 @@ T
 * 
 ```
 
-Please refer to Section 8.3.1 of my [PhD dissertation](thesis.pdf) to make sense of the printed results.
+Please refer to Section 8.3.1 of [thesis.pdf](thesis.pdf) to make sense of the printed results.
 
 It should also generate `t.dot` file with the diagram of the solution. To visualise it, you could use `dot` utility from GraphViz package to generate a PDF:
 
