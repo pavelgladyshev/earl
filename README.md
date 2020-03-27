@@ -18,7 +18,7 @@ Running the software
 
 1. Read relevant parts of my [PhD dissertation](thesis.pdf) (chapters 6 to 8).
 
-2. Clone or otherwise download this repository. 
+2. Clone or download this repository. 
 
 3. Start terminal / command line window and navigate to the repository folder.
 
