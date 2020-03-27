@@ -11,7 +11,7 @@ This software depends on the following software packages:
  * [Steel Bank Common Lisp](https://github.com/pavelgladyshev/earl.git) to run the sofwtare, and
  * [GraphViz](https://www.graphviz.org) to view solution diagrams produced by it.
 
-The easiest way to install both packages is via package managers  (apt on Linux / homebrew on macOS).
+The easiest way to install both packages is via package managers  (apt on Ubuntu / homebrew on macOS).
 
 Running the software
 --------------------
