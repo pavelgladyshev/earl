@@ -8,7 +8,7 @@ Dependencies
 
 This software requires the following software packages:
 
- * [Steel Bank Common Lisp](http://www.sbcl.org) to run the sofwtare, and
+ * [Steel Bank Common Lisp](http://www.sbcl.org) to run, and
  * [GraphViz](https://www.graphviz.org) to view solution diagrams produced by it.
 
 The easiest way to install both packages is via package managers  (apt on Ubuntu / homebrew on macOS).
