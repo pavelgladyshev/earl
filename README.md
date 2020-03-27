@@ -16,7 +16,7 @@ The easiest way to install both packages is via package managers  (apt on Ubuntu
 Running the software
 --------------------
 
-1. Read relevant parts of my [PhD dissertation](thesis.pdf) (chapter 5 to 8).
+1. Read relevant parts of my [PhD dissertation](thesis.pdf) (chapters 6 to 8).
 
 2. Clone or otherwise download this repository. 
 
