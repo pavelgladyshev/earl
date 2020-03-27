@@ -9,7 +9,7 @@ Dependencies
 This software should run on Windows, Linux, and macOS. It relies on the following software packages:
 
  * [Steel Bank Common Lisp](http://www.sbcl.org) to run, and
- * [GraphViz](https://www.graphviz.org) to view produced diagrams.
+ * [GraphViz](https://www.graphviz.org) to generate diagrams.
 
 The easiest way to install both packages on Linux and macOS is via package managers (`apt` on Ubuntu / `brew` on macOS).
 
