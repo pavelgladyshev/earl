@@ -1,4 +1,4 @@
-Event Reconstruction and Analysis in Lisp (EARL)
+Event Analysis and Reconstruction in Lisp (EARL)
 ================================================
 
 This frepository contains implementation of digital event reconstruction algorithms that I developed for my PhD dissertation in 2004. 
