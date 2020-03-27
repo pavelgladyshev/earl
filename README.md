@@ -22,6 +22,10 @@ Running the software
 
 3. Start terminal / command line window and navigate to the repository folder.
 
+```sh
+$ cd /path/to/earl
+```
+
 4. Start Steel Bank Common Lisp
 
 ```sh
