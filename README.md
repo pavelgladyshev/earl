@@ -59,4 +59,4 @@ $ dot -Tpdf t.dot >t.pdf
 
 The resulting picture looks like this:
 
-![t.pdf](t.pdf)
+![t.png](t.png)
