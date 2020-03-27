@@ -61,6 +61,6 @@ It should also generate `t.dot` file with the diagram of the solution. To visual
 $ dot -Tpdf t.dot >t.pdf
 ```
 
-The resulting picture looks a bit like this:
+For acme.lisp, the resulting picture will look like this:
 
 ![t.png](t.png)
